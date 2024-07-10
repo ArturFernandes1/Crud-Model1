@@ -18,5 +18,5 @@ Para executar este projeto, você precisará de um navegador web moderno.
 
 1. Clone este repositório para a sua máquina local:
    ```sh
-   git clone https://github.com/ArturFernandes1/Crud-Model1.git
+   https://github.com/ArturFernandes1/Crud-Model1.git
 
